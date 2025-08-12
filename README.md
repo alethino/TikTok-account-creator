@@ -6,5 +6,3 @@
 # contact me
 # telegram: @Neo_Galaxy
 https://t.me/Neo_Galaxy
-
-

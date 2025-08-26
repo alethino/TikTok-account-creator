@@ -2,6 +2,7 @@
 
 import utils
 class Account:
+    
     def __init__(self) -> None:
         self.registered = 0
         self.errors     = 0

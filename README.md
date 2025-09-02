@@ -4,5 +4,5 @@
 # test api
 ## new version, creating accounts for mobile phones and mail
 # contact me
-# telegram: @Neo_Galaxy
-https://t.me/Neo_Galaxy
+# telegram: @alethino
+https://t.me/alethino
